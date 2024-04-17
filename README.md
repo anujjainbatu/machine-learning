@@ -2,7 +2,7 @@
 
 This repository serves as a central hub for my ongoing exploration of Machine Learning (ML). It contains notebooks for my learning journey, code for practical applications, and certifications earned along the way.
 
-### Contents
+### Content
 
 * **notebooks**: Jupyter notebooks documenting my learning process. 
     * You'll find notebooks covering various ML concepts, algorithms, and techniques.
